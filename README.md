@@ -1,6 +1,6 @@
 # My Favorite Tools
 
-A collection of links to my favorite tools for various types of projects.
+A collection of links to my favorite tools for various types of projects. This is a work-in-progress. Feel free to make suggestions by creating a Pull Request.
 
 ## JavaScript
 
