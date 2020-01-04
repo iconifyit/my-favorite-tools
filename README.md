@@ -13,9 +13,16 @@ A collection of links to my favorite tools for various types of projects.
 
 ### CEP
 
+* [Bombino](https://github.com/Inventsable/bombino) - All NodeJS CEP Panel framework by [Tom Scharstein](https://github.com/Inventsable)
+* [CEP-Boilerplate](https://github.com/iconifyit/cep-boilerplate) - This is my WIP framework for building CEP panels
+
 ### UXP
 
+* Coming Soon
+
 ### NodeJS
+
+* Coming Soon
 
 ### Illustrator Scripts
 
