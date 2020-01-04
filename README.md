@@ -15,6 +15,7 @@ A collection of links to my favorite tools for various types of projects. This i
 
 * [Bombino](https://github.com/Inventsable/bombino) - All NodeJS CEP Panel framework by [Tom Scharstein](https://github.com/Inventsable)
 * [CEP-Boilerplate](https://github.com/iconifyit/cep-boilerplate) - This is my WIP framework for building CEP panels
+* [Joonas.me JSX Dialog-builder](https://scriptui.joonas.me/) - Web-base GUI for building JSX dialogs.
 
 ### UXP
 
