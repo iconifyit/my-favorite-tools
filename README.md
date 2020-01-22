@@ -70,7 +70,7 @@ Popular icon libraries
 
 ### Paid
 
-* [Streaamline by Webalys](https://app.streamlineicons.com) - 30,000 Icons in a single style
+* [Streamline by Webalys](https://transactions.sendowl.com/stores/9358/163277) - 30,000 Icons in a single style
 * [Round Icons](https://roundicons.com/) - 42,000 Icons in multiple styles
 * [Diversity Avatars](https://diversityavatars.com) - 1,000 Avatars depicting different races, ethnicities, nationalities, religions, etc.
 * [SmashIcons](https://smashicons.com/) - 175,000+ icons in multiple styles
@@ -98,3 +98,10 @@ Popular icon libraries
 My collection of bash scripts I use every day
 
 * [Bash Scripts](https://github.com/iconifyit/bash)
+
+## UX Design
+
+* [InVision Studio](https://www.invisionapp.com/studio)
+* [Figma](https://www.figma.com)
+* [Adobe XD](https://www.adobe.com/products/xd.html)
+* [Sketch](https://www.sketch.com) 
