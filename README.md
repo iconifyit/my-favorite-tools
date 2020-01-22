@@ -13,14 +13,20 @@ I am not an affiliate marketer and I have worked or actively work for both of th
 I use JetBrains IntelliJ almost exclusively but will occasionally use other IDEs.
 
 * [JetBrains](https://www.jetbrains.com/)
-* [IntelliJ](https://www.jetbrains.com/idea)
-* [WebStorm](https://www.jetbrains.com/webstorm)
-* [PhpStorm](https://www.jetbrains.com/phpstorm)
-* [PyCharm](https://www.jetbrains.com/pycharm)
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [Atom](https://atom.io/)
-* [Brackets](http://brackets.io/)
-* [BBEdit](https://www.barebones.com/products/bbedit)
+* [IntelliJ](https://www.jetbrains.com/idea) - by JetBrains
+* [WebStorm](https://www.jetbrains.com/webstorm) - by JetBrains
+* [PhpStorm](https://www.jetbrains.com/phpstorm) - by JetBrains
+* [PyCharm](https://www.jetbrains.com/pycharm) - by JetBrains
+* [Visual Studio Code](https://code.visualstudio.com/) - by Microsoft
+* [Atom](https://atom.io/) - by Github
+* [Brackets](http://brackets.io/) - by Adobe
+* [BBEdit](https://www.barebones.com/products/bbedit) - by Barebones Software
+
+### Interesting (I have not used these)
+
+* [Blocs](https://blocsapp.com/)
+* [Blocs to Wordpress](https://blocs.store/product/blocs-to-wordpress/)
+* [Bootstrap Studio](https://bootstrapstudio.io/)
 
 ## JavaScript
 
