@@ -40,6 +40,7 @@ to understand languages more abstractly.
 ### General
 
 * [JSON]    [Taffy DB](https://taffydb.com) - Library for treating a JSON collection like a relational database
+* [JSON]    [Fusejs](https://fusejs.io/) - Fantastic fuzzy search for JSON
 * [String]  [Voca](https://vocajs.com/) - Library for common string manipulations
 * [Mixed]   [is_js](https://is.js.org/) - Library for testing what an entity IS
 * [Date]    [DateJS](https://github.com/datejs/Datejs) - Library for formatting dates
