@@ -1,8 +1,35 @@
 # My Favorite Tools
 
-A collection of links to my favorite tools for various types of projects. This is a work-in-progress so there may be some glaring omissions. Send suggestions to me via the contact form on my website : https://vectoricons.net/pages/contact/ or on [Twitter](https://twitter.com/iconifyit)
+A collection of links to my favorite tools for various types of projects. 
+This is a work-in-progress so there may be some glaring omissions. 
+Send suggestions to me via the contact form on my website : 
+https://vectoricons.net/pages/contact/ or on [Twitter](https://twitter.com/iconifyit). 
+
+NB: Streamline Icons and Iconfinder links include my referral code to earn a small commission. 
+I am not an affiliate marketer and I have worked or actively work for both of these companies.
+
+## IDEs
+
+I use JetBrains IntelliJ almost exclusively but will occasionally use other IDEs.
+
+* [JetBrains](https://www.jetbrains.com/)
+* [IntelliJ](https://www.jetbrains.com/idea)
+* [WebStorm](https://www.jetbrains.com/webstorm)
+* [PhpStorm](https://www.jetbrains.com/phpstorm)
+* [PyCharm](https://www.jetbrains.com/pycharm)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Atom](https://atom.io/)
+* [Brackets](http://brackets.io/)
+* [BBEdit](https://www.barebones.com/products/bbedit)
 
 ## JavaScript
+
+The majority of my coding these days is JavaScript including React, NodeJS, 
+JavaScript Extension (Adobe CEP extensions), etc. But I have extensive experience with Python,
+PHP, Java, Bash, and AppleScript. I have a tiny bit of C++ experience (enough to cause harm).
+Learning programming languages is very much like learning spoken languages. After your thrid 
+one, it becomes infinitely easier to learn new ones. Your brain just becomes wired differently 
+to understand languages more abstractly.
 
 ### General
 
@@ -37,7 +64,6 @@ A collection of links to my favorite tools for various types of projects. This i
 * [Resize Artboards](https://github.com/iconifyit/resize-artboards) - Resize all artboards in Adobe Illustrator
 * [Resize Artwork](https://github.com/iconifyit/ai-resize-artwork) - Resize all artwork in Adobe Illustrator
 * [Sessions for AI](https://github.com/iconifyit/ai-sessions) - Save links to all open Illustrator docs to easily return to your work session after closing them
-* []()
 
 ## CSS
 
